@@ -1,0 +1,10 @@
+Pearl Blue - #c1dce6
+
+Noir Eggplant - #2e0742
+
+Yolk Yellow - #ffbf00 +ve
+
+Dried Lilac - #c5bfff -ve
+
+
+Font = Quicksand
